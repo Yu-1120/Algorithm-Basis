@@ -1,0 +1,4 @@
+# ninja log v5
+13	461	6815793429167278	build.ninja	3f35a5a11dee95c4
+1	545	6815793435013070	CMakeFiles/DAY12.dir/3foreach_string.cpp.obj	9e25d2b6ea8351a6
+547	738	6815793436887239	DAY12.exe	ebb5ed7495c7d399

@@ -1,0 +1,1 @@
+"D:\CLion\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\11868\Documents\GitHub\C-Plus\C++base\DAY13-适配器容器和C++11新语法 -B C:\Users\11868\Documents\GitHub\C-Plus\C++base\DAY13-适配器容器和C++11新语法\cmake-build-debug
