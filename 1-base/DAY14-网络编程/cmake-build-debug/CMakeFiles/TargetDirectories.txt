@@ -1,3 +1,0 @@
-C:/Users/11868/Documents/GitHub/C-Plus/C++base/DAY14-网络编程/cmake-build-debug/CMakeFiles/DAY14_.dir
-C:/Users/11868/Documents/GitHub/C-Plus/C++base/DAY14-网络编程/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/11868/Documents/GitHub/C-Plus/C++base/DAY14-网络编程/cmake-build-debug/CMakeFiles/rebuild_cache.dir
