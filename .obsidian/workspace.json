@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "7d7d91bc62ad81b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f6cf6f215128e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c6147209abf549",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数据结构/01 基础入门.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22057082d78cbc56",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3faae411b306df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17a7bb13f7c6f6f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96b5ac703920a1fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25871e9588939a88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58d7cf22b2d129dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6fe5e3ae32f20af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b3c6e36a116c731",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构/01 基础入门.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85bef15f3430eca2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构/01 基础入门.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97a394808fc39570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e60a1ea7514085b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据结构/01 基础入门.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "49c6147209abf549",
+  "lastOpenFiles": [
+    "数据结构/未命名.md",
+    "数据结构/Pasted image 20231219000357.png",
+    "数据结构/01 基础入门.pdf"
+  ]
+}
