@@ -2,7 +2,7 @@ git add .
 
 echo  %date%+%time%
 
-git commit -m "$(date) update"
+git commit -m "update+%date%+%time%"
 
 git push -f --set-upstream origin master:master
 
