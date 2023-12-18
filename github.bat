@@ -1,6 +1,6 @@
 git add .
 
-echo  $(date)
+echo   %time%
 
 git commit -m "$(date) update"
 
