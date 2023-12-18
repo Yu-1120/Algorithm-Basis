@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "数据结构/数据结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "数据结构/数据结构.md"
               }
             }
           }
@@ -149,8 +149,17 @@
   },
   "active": "49c6147209abf549",
   "lastOpenFiles": [
-    "数据结构/11 排序的基本概念.md",
     "Excalidraw/Drawing 2023-12-19 00.32.27.excalidraw.md",
+    "数据结构/未命名.md",
+    "数据结构/03 单向链表.pdf",
+    "数据结构/数据结构.md",
+    "数据结构/01 基础入门.pdf",
+    "数据结构/02 顺序表.pdf",
+    "数据结构/assets/数据结构/image-20231219003655961.png",
+    "数据结构/assets/数据结构",
+    "数据结构/assets",
+    "README.md",
+    "数据结构/11 排序的基本概念.md",
     "Excalidraw",
     "数据结构/10 非线性结构（二叉树）.pdf",
     "linux/第7讲 Ubuntu软件安装_笔记_8651.md",
@@ -160,13 +169,11 @@
     "linux/未命名 2.md",
     "linux/未命名 1.md",
     "linux/未命名.md",
-    "数据结构/数据结构.md",
     "数据结构/image/Pasted image 20231219000459.png",
     "数据结构/image/数据结构-1.png",
     "数据结构/image/数据结构.png",
     "数据结构/image/Pasted image 20231219001950.png",
     "数据结构/image",
-    "数据结构/01 基础入门.pdf",
     "数据结构/Pasted image 20231219000357.png"
   ]
 }
