@@ -1,6 +1,6 @@
 git add .
 
-echo "File upload successful at $(date)"
+echo  $(date)
 
 git commit -m "$(date) update"
 
