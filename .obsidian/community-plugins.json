@@ -1,5 +1,9 @@
 [
   "oz-clear-unused-images",
   "obsidian-image-toolkit",
-  "obsidian-collapse-all-plugin"
+  "obsidian-collapse-all-plugin",
+  "highlightr-plugin",
+  "obsidian-icon-folder",
+  "obsidian-paste-image-rename",
+  "obsidian-excalidraw-plugin"
 ]

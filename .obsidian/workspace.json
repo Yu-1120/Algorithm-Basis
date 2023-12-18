@@ -11,9 +11,11 @@
             "id": "49c6147209abf549",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "数据结构/01 基础入门.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/01 基础入门.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/01 基础入门.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/01 基础入门.pdf"
+                "file": "README.md"
               }
             }
           }
@@ -141,13 +143,30 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "49c6147209abf549",
   "lastOpenFiles": [
-    "数据结构/未命名.md",
-    "数据结构/Pasted image 20231219000357.png",
-    "数据结构/01 基础入门.pdf"
+    "数据结构/11 排序的基本概念.md",
+    "Excalidraw/Drawing 2023-12-19 00.32.27.excalidraw.md",
+    "Excalidraw",
+    "数据结构/10 非线性结构（二叉树）.pdf",
+    "linux/第7讲 Ubuntu软件安装_笔记_8651.md",
+    "linux/第7讲 Ubuntu软件安装_笔记_8651.assetsimage-{{DATEYYYYMMDD-HHmmssSSS}}.png",
+    "linux/第7讲 Ubuntu软件安装_笔记_8651.png",
+    "linux/未命名 3.md",
+    "linux/未命名 2.md",
+    "linux/未命名 1.md",
+    "linux/未命名.md",
+    "数据结构/数据结构.md",
+    "数据结构/image/Pasted image 20231219000459.png",
+    "数据结构/image/数据结构-1.png",
+    "数据结构/image/数据结构.png",
+    "数据结构/image/Pasted image 20231219001950.png",
+    "数据结构/image",
+    "数据结构/01 基础入门.pdf",
+    "数据结构/Pasted image 20231219000357.png"
   ]
 }
