@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/数据结构.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ffd1f79acb50c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新建文件夹/21-11-3-STC89C51/1-LED-GPIO/1-LED-GPIO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/数据结构.md",
+                "file": "新建文件夹/21-11-3-STC89C51/1-LED-GPIO/1-LED-GPIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/数据结构.md",
+                "file": "新建文件夹/21-11-3-STC89C51/1-LED-GPIO/1-LED-GPIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/数据结构.md"
+                "file": "新建文件夹/21-11-3-STC89C51/1-LED-GPIO/1-LED-GPIO.md"
               }
             }
           }
@@ -147,33 +160,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "49c6147209abf549",
+  "active": "17a7bb13f7c6f6f7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-19 00.32.27.excalidraw.md",
-    "数据结构/未命名.md",
-    "数据结构/03 单向链表.pdf",
-    "数据结构/数据结构.md",
-    "数据结构/01 基础入门.pdf",
-    "数据结构/02 顺序表.pdf",
-    "数据结构/assets/数据结构/image-20231219003655961.png",
-    "数据结构/assets/数据结构",
-    "数据结构/assets",
-    "README.md",
-    "数据结构/11 排序的基本概念.md",
-    "Excalidraw",
-    "数据结构/10 非线性结构（二叉树）.pdf",
-    "linux/第7讲 Ubuntu软件安装_笔记_8651.md",
-    "linux/第7讲 Ubuntu软件安装_笔记_8651.assetsimage-{{DATEYYYYMMDD-HHmmssSSS}}.png",
-    "linux/第7讲 Ubuntu软件安装_笔记_8651.png",
-    "linux/未命名 3.md",
-    "linux/未命名 2.md",
-    "linux/未命名 1.md",
-    "linux/未命名.md",
-    "数据结构/image/Pasted image 20231219000459.png",
-    "数据结构/image/数据结构-1.png",
-    "数据结构/image/数据结构.png",
-    "数据结构/image/Pasted image 20231219001950.png",
-    "数据结构/image",
-    "数据结构/Pasted image 20231219000357.png"
+    "新建文件夹/21-11-3-STC89C51/1-LED-GPIO/1-LED-GPIO/1-LED-GPIO.md",
+    "新建文件夹/21-11-3-STC89C51/1-LED-GPIO/1-LED-GPIO.md",
+    "负载瞬态响应.md",
+    "新建文件夹/技术栈.md",
+    "新建文件夹/硬件设计/硬件设计.md",
+    "新建文件夹/硬件设计",
+    "新建文件夹/一些 器件_副本/自锁开关/image/image_-hD0Gs-S5x.png",
+    "新建文件夹/一些 器件_副本/自锁开关/image",
+    "新建文件夹/一些 器件_副本/自锁开关/自锁开关.md",
+    "新建文件夹/一些 器件_副本/自锁开关",
+    "新建文件夹/一些 器件_副本/OLED/OLED.md",
+    "新建文件夹/一些 器件_副本/OLED",
+    "新建文件夹/一些 器件_副本/一些 器件_副本.md",
+    "新建文件夹/一些 器件_副本",
+    "新建文件夹/一些 技巧_副本/电阻/image/image_7de-oxdBfo.png",
+    "新建文件夹/一些 技巧_副本/电阻/image",
+    "新建文件夹/一些 技巧_副本/电阻/电阻.md",
+    "新建文件夹/一些 技巧_副本/电阻",
+    "新建文件夹/一些 技巧_副本/焊接技巧/焊接技巧.md",
+    "新建文件夹/一些 技巧_副本/焊接技巧",
+    "新建文件夹/一些 技巧_副本/热风枪/热风枪.md",
+    "新建文件夹/一些 技巧_副本/热风枪",
+    "新建文件夹/一些 技巧_副本/杜邦线/杜邦线.md",
+    "新建文件夹/一些 技巧_副本/杜邦线",
+    "新建文件夹/一些 技巧_副本/一些 技巧_副本.md",
+    "新建文件夹/新页面/新页面.md",
+    "新建文件夹/犀牛/犀牛.md",
+    "新建文件夹/物料整理_副本/跳线帽/跳线帽.md",
+    "新建文件夹/物料整理_副本/自锁开关/自锁开关.md",
+    "新建文件夹/物料整理_副本/稳压管1206  3.3v  0.5w/稳压管1206  3.3v  0.5w.md",
+    "新建文件夹/物料整理_副本/新页面_1/新页面.md",
+    "新建文件夹/物料整理_副本/新页面/新页面.md",
+    "新建文件夹/物料整理_副本/快恢复整流二极管 SOD-23/快恢复整流二极管 SOD-23.md",
+    "新建文件夹/物料整理_副本/单向稳压管 AE/单向稳压管 AE.md",
+    "新建文件夹/物料整理_副本/侧脚 3针 拨动/侧脚 3针 拨动.md",
+    "新建文件夹/物料整理_副本/mini USB/mini USB.md",
+    "新建文件夹/物料整理_副本/ch340c/ch340c.md",
+    "新建文件夹/物料整理_副本/WS2812B 四脚LED/WS2812B 四脚LED.md",
+    "新建文件夹/微软/image/image_8Etd2_Gb-m.png",
+    "新建文件夹/数据库安装方法/image/tw3114o-k5_4FVYlh9VX5.png",
+    "新建文件夹/数据库安装方法/image/t4dqb5qgg9_0fo0A4o9jW.png",
+    "新建文件夹/数据库安装方法/image/mi0wie2gmy_7Y7j9wfClS.png",
+    "新建文件夹/数据库安装方法/image/i_efjkwe2g_xYNDEL_oM1.png",
+    "新建文件夹/数据库安装方法/image/dri--p0bw3_389CajjwQI.png",
+    "新建文件夹/数据库安装方法/image/4k9m-kvg3y_4-_OL66Fe5.png",
+    "新建文件夹/数据库安装方法/image/4iazcbcfup_4izXyVVI1Q.png"
   ]
 }
